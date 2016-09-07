@@ -1,0 +1,45 @@
+{
+  "app":{
+    "name": "ZY-AUTO-AQ"
+  },
+  "nav":{
+    "dashboard": "指示板",
+    "layouts": "布局",
+    "graphs": "图表",
+    "mailbox": "邮箱",
+    "metrics": "指标",
+    "widgets": "部件",
+
+    "forms": "表单",
+    "appviews": "应用视图",
+    "otherpages": "其他页面",
+    "uielements": "UI元素",
+    "miscellaneous": "杂项",
+    "gridoptions": "网格选项",
+    "tables": "制表",
+    "ecommerce": "商务",
+    "gallery": "画廊",
+    "menulevels": "菜单层级",
+    "animations": "动画",
+    "landing": "着陆页",
+
+    "package": "框架"
+  },
+  "body":{
+    "welcome": "感谢您的使用！"
+
+  },
+  "topnav":{
+
+    "messageinfo": "您有42条信息和6条通知。",
+    "search": "搜点什么...",
+    "logout": "登出",
+    "welcometext": "欢迎使用知言自动问答客服系统！",
+    "language": "语种"
+  },
+  "demo":{
+    "text1": "国际化(有时缩写\"I18N,意思是\"我——18个字母n \")是规划和实现产品和服务的过程中,这样他们可以很容易地适应特定的当地的语言和文化,这一过程被称为本地化。国际化过程有时被称为翻译或本地化的支持。"
+  }
+
+
+}
